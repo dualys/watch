@@ -1,0 +1,15 @@
+[submodule "kpack"]
+	path = kpack
+	url = https://github.com/dualys/kpack.git
+[submodule "noun"]
+	path = noun
+	url = https://github.com/dualys/noun.git
+[submodule "ra"]
+	path = ra
+	url = https://github.com/dualys/ra.git
+[submodule "re"]
+	path = re
+	url = https://github.com/dualys/re.git
+[submodule "jinshu"]
+	path = jinshu
+	url = https://github.com/dualys/jinshu.git
