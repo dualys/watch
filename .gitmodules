@@ -13,3 +13,9 @@
 [submodule "jinshu"]
 	path = jinshu
 	url = https://github.com/dualys/jinshu.git
+[submodule "maat"]
+	path = maat
+	url = https://github.com/dualys/maat.git
+[submodule "plan"]
+	path = plan
+	url = https://github.com/dualys/plan.git
